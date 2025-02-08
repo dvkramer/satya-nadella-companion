@@ -1,5 +1,5 @@
 ## Overview
-This is the **Satya Nadella Companion for Windows**. This program brings the steady presence of Microsoft’s CEO directly to your desktop. Satya will walk back and forth at the bottom of your screen, offering a calming, no-nonsense vibe to your workflow.
+Welcome to the **Satya Nadella Companion for Windows**! This program brings the steady presence of Microsoft’s CEO directly to your desktop. Satya will walk back and forth at the bottom of your screen, offering a calming, no-nonsense vibe to your workflow.
 
 ## Features
 - **Satya Nadella** walks back and forth across your screen.
